@@ -21,7 +21,7 @@ You are required to generate the optimal policy for the robot using the followin
     
 
 # Outputs 
-<img src="https://github.com/shivakumar-tekumatla/MDP-DynamicProgramming/blob/master/Outputs/policy_iteration.gif" width="600">
+<img src="https://github.com/shivakumar-tekumatla/MDP-DynamicProgramming/blob/master/Outputs/policy_iteration.gif" width="1000">
 
 <img src="https://github.com/shivakumar-tekumatla/MDP-DynamicProgramming/blob/master/Outputs/policy_determinisitc_policy_iteration.png">
 
