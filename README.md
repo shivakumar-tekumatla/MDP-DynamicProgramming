@@ -1,7 +1,7 @@
 # MDP-DynamicProgramming
 Policy Generation for Mobile Robot in obstacle environment using Policy Iteration , Generalised Policy Iteration , and Value Iteration  in both Deterministic , and Stochastic Models. Here process is assumed to be Markov Decision Process , and the problem is solved using Dynamic Programming .
 
-In this programing problem we are going to solve the problem explain in Figure 14.2 of the book “Probabilistic Robotics” using Dynamic Programing. 
+In this programing problem I am going to solve the problem explain in Figure 14.2 of the book “Probabilistic Robotics” using Dynamic Programing. 
 
 The robot can move in 8 directions (4 straight + 4 diagonal). The robot has two model:
     a) Deterministic model, that always executes movements perfectly.
