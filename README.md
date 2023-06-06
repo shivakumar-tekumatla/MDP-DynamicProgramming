@@ -13,7 +13,7 @@ The reward for reaching the goal is 100.0.
 The goal location is at W(8,11)
 Use gamma =0.95.
 
-You are required to generate the optimal policy for the robot using the following algorithms:
+Requirement: To generate the optimal policy for the robot using the following algorithms:
 
     1) Policy iteration (algorithm on page 80 Sutton and Barto)
     2) Value Iteration (algorithm on page 83 Sutton and Barto)
