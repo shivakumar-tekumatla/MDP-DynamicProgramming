@@ -19,7 +19,6 @@ Requirement: To generate the optimal policy for the robot using the following al
     2) Value Iteration (algorithm on page 83 Sutton and Barto)
     3) Generalized Policy Iteration
     
-
 # Outputs 
 <img src="https://github.com/shivakumar-tekumatla/MDP-DynamicProgramming/blob/master/Outputs/policy_iteration.gif" width="1000">
 
