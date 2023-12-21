@@ -1,5 +1,7 @@
 """
-In this programing assignment we are going to solve the problem explain in Figure 14.2 of the book “Probabilistic Robotics” using Dynamic Programing. (You don’t really to refer to that book, everything needed is provided here)
+In this programing assignment we are going to solve the problem explain in Figure 14.2 of the book “Probabilistic Robotics” using Dynamic Programing.
+
+(You don’t really to refer to that book, everything needed is provided here)
 The robot can move in 8 directions (4 straight + 4 diagonal). The robot has two model:
     a) Deterministic model, that always executes movements perfectly.
     b) Stochastic model, that has a 20% probability of moving +/-45degrees from the commanded move.
